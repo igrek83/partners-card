@@ -1,0 +1,10 @@
+@import url(./__span-form-block/content__span-form-block.css);
+@import url(./__mini-box/content__mini-box.css);
+
+.content__block-form {
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  width: 320px;
+  left: -120px;
+}

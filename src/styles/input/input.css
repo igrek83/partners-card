@@ -1,0 +1,30 @@
+.input {
+  outline: none;
+  border: none;
+  border-radius: 20px;
+  font-family: 'Open Sans';
+  font-weight: normal;
+  font-size: 15px;
+  line-height: 20px;
+  color: #9c9c9c;
+  background: #f0f0f0;
+  box-shadow: inset -3px -3px 4px #fff,
+    inset 4px 4px 4px rgba(160, 159, 159, 0.2);
+  margin-bottom: 20px;
+}
+
+.input::-webkit-input-placeholder {
+  opacity: 0.5;
+}
+
+.input::-moz-placeholder {
+  opacity: 0.5;
+}
+
+.input:-moz-placeholder {
+  opacity: 0.5;
+}
+
+.input:-ms-input-placeholder {
+  opacity: 0.5;
+}

@@ -1,0 +1,7 @@
+@import url(./__mini-box-span/content__mini-box-span.css);
+
+.content__mini-box-title {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 5px 8px;
+}

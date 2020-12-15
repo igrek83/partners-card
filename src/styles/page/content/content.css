@@ -1,0 +1,10 @@
+@import url(./__container/content__container.css);
+
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1260px;
+  margin-top: 200px;
+  margin-bottom: 300px;
+}

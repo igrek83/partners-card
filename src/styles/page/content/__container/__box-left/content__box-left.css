@@ -1,0 +1,14 @@
+.content__box-left {
+  position: absolute;
+  left: -20px;
+  display: flex;
+  background: #f3f3f3;
+  align-items: center;
+  justify-content: flex-end;
+  width: 27px;
+  height: 530px;
+  border-top-left-radius: 170px;
+  border-bottom-left-radius: 170px;
+  box-shadow: -6px -6px 6px rgba(255, 255, 255, 0.4),
+    -6px 6px 6px rgba(255, 255, 255, 0.4);
+}

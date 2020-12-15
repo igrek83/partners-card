@@ -1,0 +1,28 @@
+@import url(./__box-right/content__box-right.css);
+@import url(./__box-left/content__box-left.css);
+@import url(./__box-right-bottom/content__box-right-bottom.css);
+@import url(./__box-left-bottom/content__box-left-bottom.css);
+@import url(./__line/content__line.css);
+@import url(./__decor-line/content__decor-line.css);
+@import url(./__bottom-container/content__bottom-container.css);
+@import url(./__top-block/content__top-block.css);
+@import url(./__title/content__title.css);
+@import url(./__medium-block/content__medium-block.css);
+@import url(./__block/content__block.css);
+@import url(./__big-block/content__big-block.css);
+@import url(./__block-form/content__block-form.css);
+@import url(./__figure-block/content__figure-block.css);
+
+.content__container {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: #f3f3f3;
+  border-radius: 10px;
+  width: 1200px;
+  box-shadow: -8px -8px 16px #fff,
+    8px 8px 16px rgba(0, 0, 0, 0.1);
+  margin-top: 30px;
+  padding-left: 25px;
+}

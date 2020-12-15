@@ -1,0 +1,13 @@
+@import url(./__line-figure/content__line-figure.css);
+@import url(./__line-top-left/content__line-top-left.css);
+@import url(./__line-top-right/content__line-top-right.css);
+@import url(./__line-medium-right/content__line-medium-right.css);
+@import url(./__line-medium-left/content__line-medium-left.css);
+@import url(./__line-bottom-left/content__line-bottom-left.css);
+@import url(./__line-bottom-right/content__line-bottom-right.css);
+@import url(./__line-bottom/content__line-bottom.css);
+
+.content__figure-block {
+  display: flex;
+  flex-direction: column;
+}

@@ -1,0 +1,17 @@
+.content__label {
+  cursor: pointer;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  background: #f0f0f0;
+  margin-right: 32px;
+  box-shadow: -2px -2px 3px rgba(255, 255, 255, 0.44),
+    2px 2px 3px rgba(160, 159, 159, .3);
+}
+
+.content__checkbox:checked+.content__label {
+  background: #797979;
+  border: 6px solid #f0f0f0;
+  box-shadow: inset -3px -3px 4px rgba(255, 255, 255, 0.7),
+    inset 3px 3px 4px rgba(160, 159, 159, 0.7);
+}

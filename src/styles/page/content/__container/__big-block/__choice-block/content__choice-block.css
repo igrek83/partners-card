@@ -1,0 +1,8 @@
+@import url(./__checkbox/content__checkbox.css);
+@import url(./__label/content__label.css);
+@import url(./__checkbox-span/content__checkbox-span.css);
+
+.content__choice-block {
+  display: flex;
+  margin-bottom: 23px;
+}

@@ -1,0 +1,12 @@
+@import url(./__span-star/content__span-star.css);
+
+.content__span-block {
+  font-family: 'Open Sans';
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 19px;
+  color: #797979;
+  margin-bottom: 50px;
+  padding-left: 25px;
+  max-width: 300px;
+}

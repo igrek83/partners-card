@@ -1,0 +1,10 @@
+.content__span-big-block {
+  font-family: 'Open Sans';
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 19px;
+  color: #797979;
+  margin-bottom: 50px;
+  padding-left: 60px;
+  max-width: 350px;
+}

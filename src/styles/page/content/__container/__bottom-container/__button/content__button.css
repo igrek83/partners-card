@@ -1,0 +1,22 @@
+.content__button {
+  outline: none;
+  border: none;
+  cursor: pointer;
+  width: 330px;
+  height: 55px;
+  background: #252b2b;
+  border-radius: 18px;
+  font-family: 'Open Sans';
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 20px;
+  text-transform: uppercase;
+  color: #fff;
+  box-shadow: -2.2px -2.2px 3.4px rgba(255, 255, 255, 0.44),
+    3px 3px 3.4px rgba(160, 159, 159, 0.3);
+}
+
+.content__button:active {
+  background: #1fcfcb;
+  color: #252b2b;
+}

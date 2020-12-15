@@ -1,0 +1,12 @@
+.content__decor-line {
+  position: relative;
+  left: -20px;
+  width: 94%;
+  height: 3px;
+  border-radius: 2.6px;
+  background: #f3f3f3;
+  box-shadow: inset -1.1px -1.1px 2.4px #fff,
+    inset 1.1px 1.1px 1.1px rgba(0, 0, 0, 0.15);
+  margin-top: 160px;
+  margin-bottom: 70px;
+}

@@ -1,0 +1,7 @@
+@import url(./__mini-box-title/content__mini-box-title.css);
+@import url(./__mini-form/content__mini-form.css);
+
+.content__mini-box {
+  display: flex;
+  flex-direction: column;
+}

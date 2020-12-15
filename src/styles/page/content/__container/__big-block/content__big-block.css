@@ -1,0 +1,10 @@
+@import url(./__span-big-block/content__span-big-block.css);
+@import url(./__choice-block/content__choice-block.css);
+@import url(./__text-area/content__text-area.css);
+
+.content__big-block {
+  display: flex;
+  flex-direction: column;
+  width: 660px;
+  padding-bottom: 80px;
+}

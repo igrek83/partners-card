@@ -1,0 +1,10 @@
+@import url(./__span-block/content__span-block.css);
+@import url(./__big-input/content__big-input.css);
+@import url(./__input-block/content__input-block.css);
+
+.content__block {
+  display: flex;
+  flex-direction: column;
+  width: 575px;
+  padding-bottom: 80px;
+}

@@ -1,0 +1,7 @@
+@import url(./__top-span/content__top-span.css);
+@import url(./__logo/content__logo.css);
+
+.content__top-block {
+  display: flex;
+  margin-top: 30px;
+}

@@ -1,0 +1,11 @@
+.content__mini-label {
+  cursor: pointer;
+  width: 20px;
+  height: 20px;
+  border-radius: 7.2px;
+}
+
+.content__checkbox:checked+.content__mini-label {
+  background: #eeeded;
+  box-shadow: 1.1px 1.1px 2.2px rgba(0, 0, 0, 0.45);
+}

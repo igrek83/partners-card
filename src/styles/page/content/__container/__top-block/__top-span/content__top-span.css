@@ -1,0 +1,11 @@
+.content__top-span {
+  width: 240px;
+  font-family: 'Open Sans';
+  font-weight: 800;
+  font-size: 45px;
+  line-height: 1;
+  color: #d8d8d8;
+  text-align: right;
+  padding-top: 65px;
+  margin-right: 20px;
+}

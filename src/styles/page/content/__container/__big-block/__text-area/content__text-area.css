@@ -1,0 +1,7 @@
+.content__text-area {
+  width: 512px;
+  height: 90px;
+  resize: none;
+  padding: 15px 45px;
+  margin-top: 45px;
+}

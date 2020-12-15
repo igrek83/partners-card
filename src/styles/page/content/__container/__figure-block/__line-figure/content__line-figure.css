@@ -1,0 +1,7 @@
+@import url(./__figure/content__figure.css);
+
+.content__line-figure {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 5px;
+}

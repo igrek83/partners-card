@@ -1,0 +1,7 @@
+@import url(./__small-input/content__small-input.css);
+
+.content__input-block {
+  display: flex;
+  justify-content: space-between;
+  width: 575px;
+}

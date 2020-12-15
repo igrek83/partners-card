@@ -1,0 +1,17 @@
+.content__box-right-bottom {
+  position: absolute;
+  right: -20px;
+  bottom: 1335px;
+  display: flex;
+  background: #f3f3f3;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+  width: 27px;
+  height: 530px;
+  border-top-right-radius: 170px;
+  border-bottom-right-radius: 170px;
+  box-shadow: 6px 6px 6px rgba(70, 70, 70, 0.1),
+    6px -6px 6px rgba(70, 70, 70, 0.1);
+}
